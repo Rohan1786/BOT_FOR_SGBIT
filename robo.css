@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+button{
+    padding: 20px;
+    width:30%;
+    border-radius: 90%;
+    background: rgb(133, 27, 133);
+    font-size: 30px;
+    color:rgb(230, 174, 174);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+     font-size-adjust:20px ;}
